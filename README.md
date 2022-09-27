@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanjf00&label=Profile%20views&color=0e75b6&style=flat" alt="nathanjf00" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/NJF00-Stuffs](https://github.com/NathanJF00-Stuffs)
+- 👨‍💻 All of my projects are available at [https://github.com/NJF00-Stuffs](https://github.com/NJF00-Stuffs)
 
 - 📫 How to reach me **nathanjohnfawkes00@gmail.com**
 
